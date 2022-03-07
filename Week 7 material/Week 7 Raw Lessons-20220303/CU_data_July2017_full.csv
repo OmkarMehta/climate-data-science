@@ -1,0 +1,49 @@
+Jul-17,,,,,,,,,,,,,,,
+,Midnight to Midnight,,,,,,,,8 AM Observations,,,,,,
+,Temperature (F),,,,,,Degree Days,,Precipitation (inches),,,Soil Temperature (F),,Temp. (F),
+Day,High,Time (CST),Low,Time (CST),Mean,Depart,Heating,Cooling,Precipitation,Snowfall,Snow Depth,4 inch,8 inch,Morning Low,Comments
+1,84,3:25 PM,66,11:57 PM,75,0,0,10,0.55,0,0,73,74,66,thunderstorms
+2,88,3:17 PM,61,4:48 AM,75,0,0,10,0,0,0,72,74,61,
+3,89,2:07 PM,67,5:03 AM,78,3,0,13,0,0,0,75,76,67,
+4,89,3:07 PM,67,4:29 AM,78,3,0,13,0,0,0,76,76,67,
+5,86,11:53 AM,70,4:10 AM,78,3,0,13,0,0,0,77,77,70,
+6,89,4:46 PM,70,4:29 AM,80,5,0,15,0,0,0,77,78,70,
+7,92,2:14 PM,69,3:42 AM,81,6,0,16,0,0,0,77,78,69,
+8,83,2:31 PM,64,11:59 PM,74,-1,0,9,0,0,0,75,77,65,
+9,88,1:44 PM,59,3:15 AM,74,-1,0,9,0,0,0,74,76,59,
+10,90,3:17 PM,68,9:16 AM,79,4,0,14,0.04,0,0,77,78,72,rain
+11,85,5:16 PM,69,11:02 AM,77,2,0,12,0.09,0,0,,,71,"rain, thunder"
+12,,2:54 PM,69,4:29 AM,,,,,0.68,0,0,75,76,69,thunderstorms
+13,85,1:25 PM,74,7:27 AM,80,5,0,15,0.08,0,0,79,79,74,thunderstorm
+14,81,11:44 PM,65,11:58 PM,73,-2,0,8,0,0,0,77,78,70,
+15,80,4:27 PM,59,4:28 AM,70,-5,0,5,0,0,0,75,76,59,
+16,88,3:24 PM,60,3:19 AM,74,-1,0,9,0,0,0,74,75,60,
+17,86,3:22 PM,63,5:06 AM,75,0,0,10,0,0,0,75,77,63,
+18,88,2:16 PM,62,4:49 AM,75,0,0,10,0,0,0,75,77,62,
+19,91,3:19 PM,71,4:11 AM,81,6,0,16,0.63,0,0,77,78,71,thunderstorm
+20,92,3:01 PM,70,3:07 AM,81,6,0,16,0,0,0,79,80,70,
+21,94,2:29 PM,72,5:54 AM,83,8,0,18,0.03,0,0,80,80,72,
+22,90,4:49 PM,70,8:34 AM,80,5,0,15,0,0,0,82,82,70,
+23,90,2:33 PM,68,11:58 PM,79,4,0,14,0.3,0,0,81,81,75,rain
+24,81,2:57 PM,64,11:57 PM,73,-2,0,8,0.1,0,0,81,81,68,thunderstorm
+25,84,3:46 PM,61,4:21 AM,73,-2,0,8,0,0,0,75,78,61,
+26,89,3:02 PM,63,4:48 AM,76,2,0,11,0,0,0,76,78,63,
+27,83,1:38 PM,69,11:59 PM,76,2,0,11,0.27,0,0,79,80,71,rain
+28,83,2:37 PM,65,11:59 PM,74,0,0,9,0.03,0,0,76,78,66,rain
+29,79,1:57 PM,60,5:47 AM,70,-4,0,5,0,0,0,73,76,60,
+30,84,2:56 PM,60,4:30 AM,72,-2,0,7,0,0,0,73,76,60,
+31,85,1:19 PM,64,2:04 AM,75,1,0,10,0,0,0,75,76,64,
+Avg/Sum,86.8,,65.8,,76.4,,0,354,2.8,0,,76.3,77.5,,
+Highest,94,,74,,83,,0,18,0.68,0,0,,,,
+Lowest,79,,59,,70,,0,5,0,0,0,,,,
+Normal,85,,64.9,,75,,1,309,4.7,0,,,,,
+Departure,1.8,,0.9,,1.5,,-1,45,-1.9,0,,,,,
+Days ? 90,8,Days ? 32,0,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+Notes:,,,,,,,,,,,,,,,
+Temperatures are from midnight to midnight (calendar day) and are in degrees Fahrenheit,,,,,,,,,,,,,,,
+"Precipitation and snowfall are measured at 8 am and represent the previous 24 hours, T means a trace of precipitation",,,,,,,,,,,,,,,
+Time is always Central Standard Time (CST),,,,,,,,,,,,,,,
+Heating and cooling degree days use a base temperature of 65°F,,,,,,,,,,,,,,,
+Normal refers to the 1981-2010 average,,,,,,,,,,,,,,,
+"""Days 90"" means # of days with a high temperature of 90° or more, ""Days 32"" means # of days with a low temperature of 32° or less",,,,,,,,,,,,,,,
